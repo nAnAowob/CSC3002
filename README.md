@@ -19,5 +19,3 @@ My notes, exercises, and programming practice for **CSC3002: C/C++ Programming**
 - Arrays & functions
 - Pointers
 - Object-Oriented Programming
-
-> 🎸 learning C/C++ one concept at a time.
